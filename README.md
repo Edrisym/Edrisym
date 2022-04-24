@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edrisym
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Solving Problems
+- 🌱 I’m currently learning HTML , CSS , C# , ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
