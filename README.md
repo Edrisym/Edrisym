@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edrisym&label=Profile%20views&color=0e75b6&style=flat" alt="edrisym" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edrisym" alt="edrisym" /></a> </p>
-
 - I'm currently working at **HRG A company in Iran**
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning **Git Internals, Design patterns, system Design, algorithms and data structure**
 
 - 👨‍💻 All of my projects are available at
 my [portfolio](http://sobhanmoavenghafouri.ir/)
