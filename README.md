@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edris</h1>
 <h3 align="center">I'm a self-taught software developer</h3>
 
-- 👨‍💻 All of my projects are available at([Sobhanmoavenghafouri.ir](http://sobhanmoavenghafouri.ir/))
+- 👨‍💻 All of my projects are available at[Sobhanmoavenghafouri.ir](http://sobhanmoavenghafouri.ir/)
 
 - 📫 How to reach me **edrismoavenghafouri@gmail.com**
 
