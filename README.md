@@ -2,7 +2,7 @@
 <h3 align="center">I'm a self-taught software developer</h3>
 
 - 👨‍💻 All of my projects are available at
-- [Click here](http://sobhanmoavenghafouri.ir/)
+[Click here](http://sobhanmoavenghafouri.ir/)
 
 - 📫 How to reach me **edrismoavenghafouri@gmail.com**
 
