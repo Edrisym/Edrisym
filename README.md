@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edris</h1>
-<h3 align="center">I'm a self-taught software developer</h3>
+<h3 align="center">I'm a self-taught software developerfrom Iran</h3>
+
+- I'm currently working at **HRG A company in Iran**
+
+- 🌱 I’m currently learning **Git**
 
 - 👨‍💻 All of my projects are available at
 my [portfolio](http://sobhanmoavenghafouri.ir/)
