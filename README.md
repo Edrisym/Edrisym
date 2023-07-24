@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edrisym&label=Profile%20views&color=0e75b6&style=flat" alt="edrisym" /> </p>
 
-- I'm currently working at **HRG A company in Iran**
+- I'm currently working at **HRG a company in Iran**
 
 - 🌱 I’m currently learning **Git Internals, Design patterns, system Design, algorithms and data structure**
 
