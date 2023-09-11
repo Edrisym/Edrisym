@@ -5,7 +5,7 @@
 
 - I'm currently working at **HRG a company in Iran**
 
-- 🌱 I’m currently learning **Git Internals, Design patterns, system Design, algorithms and data structure**
+- 🌱 I’m currently learning **APIs, Design patterns, system Design, algorithms and data structure**
 
 - 👨‍💻 All of my projects are available at
 my [portfolio](http://sobhanmoavenghafouri.ir/)
