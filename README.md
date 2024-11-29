@@ -5,7 +5,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,csharp,mongodb,postgres,mysql,redis,rabbitmq,kafka,docker,kubernetes,azure,prometheus,grafana,jenkins,git,rider,visualstudio,go,sqlite,postman,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mongodb,postgres,mysql,redis,rabbitmq,kafka,docker,kubernetes,azure,prometheus,grafana,jenkins,git,rider,visualstudio,go,sqlite,postman,html,css,js)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=edrisym&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
