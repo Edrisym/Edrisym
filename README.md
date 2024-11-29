@@ -1,7 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/edris-moaven-ghafouri)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sobhanmoaven) 
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/edris-moaven-ghafouri)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,cs,css,docker,dotnet,git,go,js,jenkins,kafka,kubernetes,mongodb,mysql,postgres,postman,prometheus,grafana,rabbitmq,redis,rider,sqlite,visualstudio)](https://skillicons.dev)
