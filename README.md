@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/edris-moaven-ghafouri)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](sobhanmoavenghafouri@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sobhanmoavenghafouri@gmail.com)
 
 
 # 💻 Tech Stack:
