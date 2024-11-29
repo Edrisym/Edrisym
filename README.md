@@ -1,6 +1,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/edris-moaven-ghafouri)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](sobhanmoavenghafouri@gmail.com)
+
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,cs,css,docker,dotnet,git,go,js,jenkins,kafka,kubernetes,mongodb,mysql,postgres,postman,prometheus,grafana,rabbitmq,redis,rider,sqlite,visualstudio)](https://skillicons.dev)
