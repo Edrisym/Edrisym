@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/edris-moaven-ghafouri)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://linkedin.com/in/edris-moaven-ghafouri](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sobhan-moaven-ghafouri))
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sobhanmoavenghafouri@gmail.com)
 
 
