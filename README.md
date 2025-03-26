@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sobhan-moaven-ghafouri)
-
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sobhanmoavenghafouri@gmail.com)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mongodb,postgres,mysql,redis,rabbitmq,docker,azure,prometheus,grafana,git,rider,visualstudio,go,sqlite,postman,bootstrap,html,angular,css,js,gitlab,github&perline=8)](https://skillicons.dev)
